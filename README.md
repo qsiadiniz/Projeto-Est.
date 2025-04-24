@@ -1,7 +1,7 @@
 # Projeto de Estatística Aplicada
 ## 🧑‍💻 Autores
 - Quesia Diniz Correia (202421250022) - diniz.quesia@academico.ifpb.edu.br
-- Letícia Firmino Eulálio (202421250016) - letícia.firmino@academico.ifpb.edu.br
+- Letícia Firmino Eulálio (202421250016) - leticia.firmino@academico.ifpb.edu.br
 
 ## 🎯 Tema e Motivação
 Nosso tema é "O Uso de Inteligência Artificial por Estudantes Universitários". O motivo da escolha deste tema foi pelo fato de que o uso das IAs ser algo extremamente relevante nos dias de hoje. Desde o surgimento e popularização das IAs, um dos principais ramos mais "afetados" foi justamente a educação.
