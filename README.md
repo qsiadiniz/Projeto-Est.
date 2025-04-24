@@ -13,7 +13,7 @@ Nome do conjunto de dados:
 Uso de IA para estudantes universitários na escola 
 
 Fonte:
-[https://www.kaggle.com/datasets/trippinglettuce/college-student-ai-use-in-school/code/discussion/data]
+https://www.kaggle.com/datasets/trippinglettuce/college-student-ai-use-in-school/code/discussion/data
 
 Descrição breve:
 Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.
