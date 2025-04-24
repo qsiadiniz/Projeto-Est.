@@ -5,6 +5,7 @@
 
 ## 🎯 Tema e Motivação
 Nosso tema é "O Uso de Inteligência Artificial por Estudantes Universitários". O motivo da escolha deste tema foi pelo fato de que o uso das IAs ser algo extremamente relevante nos dias de hoje. Desde o surgimento e popularização das IAs, um dos principais ramos mais "afetados" foi justamente a educação.
+
 O que antigamente era pesquisado em livros, posteriormente passou a ser perguntado ao Google, e hoje em dia as Inteligências Artificiais dominam o método de pesquisa entre os estudantes. Entretando isso pode causar uma certa mudança na educação, por isso é importante se atentar aos dados que mostram as principais nuances do uso nas IAs pelos estudantes.
 
 ## 📊 Conjunto de Dados Selecionado
