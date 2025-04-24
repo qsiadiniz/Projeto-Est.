@@ -21,32 +21,32 @@ Explique o que representa esse conjunto de dados, qual o escopo (temporal, geogr
 Justificativa para a escolha:
 Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
 
-##❓ Perguntas ou Hipóteses
+## ❓ Perguntas ou Hipóteses
 
 Começar a planejar com perguntas de Estatística Descritiva
 Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
 
-##🔍 Metodologia
+## 🔍 Metodologia
 
 A preencher na próxima etapa.
 Indique quais técnicas estatísticas serão utilizadas (análise exploratória, testes, correlações, modelos, etc.).
 
-##🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 
 A preencher na próxima etapa.
 Quais linguagens, bibliotecas ou softwares serão utilizados no projeto.
 
-##📈 Resultados
+## 📈 Resultados
 
 A preencher após as análises.
 Resumo visual e interpretativo dos principais achados.
 
-##📌 Conclusões
+## 📌 Conclusões
 
 A preencher no final do projeto.
 Síntese dos aprendizados e implicações das análises realizadas.
 
-##⚠️ Limitações e Trabalhos Futuros
+## ⚠️ Limitações e Trabalhos Futuros
 
 A preencher no final do projeto.
 Quais foram as limitações do estudo e o que poderia ser feito com mais tempo ou dados adicionais.
