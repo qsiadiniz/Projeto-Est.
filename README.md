@@ -23,8 +23,9 @@ Indique por que esse conjunto de dados permite análises estatísticas interessa
 
 ## ❓ Perguntas ou Hipóteses
 
-Começar a planejar com perguntas de Estatística Descritiva
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+- Qual a influência da IA na educação?
+- Terá que haver uma nova revolução no método de ensino tradicional por causa do uso da IA no cotidiano acadêmico?
+- Por que o uso da IA se popularizou tão rapidamente? 
 
 ## 🔍 Metodologia
 
