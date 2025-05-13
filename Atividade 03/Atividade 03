@@ -1,0 +1,11 @@
+Qual é o perfil médio de conhecimento, uso e interesse em IA entre os estudantes da amostra?
+→ Calcule a média, mediana e desvio padrão das respostas de Q1 (conhecimento), Q2 (uso pessoal), Q3 (uso acadêmico) e Q4 (interesse em carreira).
+
+Existe alguma diferença no uso acadêmico de IA entre os cursos?
+→ Calcule e compare a média e o desvio padrão das respostas da Q3, agrupadas por categoria da Q6 (curso).
+
+Qual é a proporção de estudantes que conhecem o ChatGPT?
+→ Apresente a frequência absoluta e relativa (em %) das respostas de Q5.
+
+Qual curso tem os estudantes mais interessados em seguir carreira em IA?
+→ Agrupe as respostas de Q4 por curso (Q6) e apresente a média e o desvio padrão do interesse por área.
