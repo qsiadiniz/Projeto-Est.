@@ -22,14 +22,14 @@ Q4 (Interesse em carreira):
 
 Existe alguma diferença no uso acadêmico de IA entre os cursos?
 → Calcule e compare a média e o desvio padrão das respostas da Q3, agrupadas por categoria da Q6 (curso).
- Curso	                       Média 	Desvio Padrão
-Business	                     2,51      	1,32
-Science, Engineering & Tech.   2,19	      1,18
-Arts & Media	                 2,17	      1,11
-Nursing & Health Care	         1,63	      0,89
-Humanities & Social Sciences   1,59	      1,02
-Education	                     1,46	      0,88
-Theology	                     1,29	      0,76
+ Curso	                         Média 	Desvio Padrão
+Business	                       2,51      	1,32
+Science, Engineering & Tech.    2,19	      1,18
+Arts & Media	                   2,17	      1,11
+Nursing & Health Care	          1,63	      0,89
+Humanities & Social Sciences    1,59	      1,02
+Education	                      1,46	      0,88
+Theology	                       1,29	      0,76
 
 
 Qual é a proporção de estudantes que conhecem o ChatGPT?
