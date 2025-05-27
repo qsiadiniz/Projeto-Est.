@@ -43,3 +43,10 @@ Frequência relativa: 14,34%
 
 Qual curso tem os estudantes mais interessados em seguir carreira em IA?
 → Agrupe as respostas de Q4 por curso (Q6) e apresente a média e o desvio padrão do interesse por área.
+ 
+* Considerando que quem tem realmente interesse votou 4 ou 5, muma escala de 1 a 5, temos:
+
+Business (Negócios) = 6
+Humanities & Social Sciences (Humanas e Ciências Sociais) = 2
+Nursing & Health Care = 1
+Science, Engineering & Technology = 18
