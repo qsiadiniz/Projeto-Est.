@@ -15,11 +15,9 @@ Uso de IA para estudantes universitários na escola
 Fonte:
 https://www.kaggle.com/datasets/trippinglettuce/college-student-ai-use-in-school/code/discussion/data
 
-Descrição breve:
-Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.
+Descrição breve e Justificativa para a escolha:
+O conjunto de dados apresentado representa a correlação entre o Uso da Ia por universitários, e qual curso em questão cada um está cursando. Assim podemos observar a relação existente entre o uso da ia, e em qual curso se tende a usar mais essa ferramenta.
 
-Justificativa para a escolha:
-Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
 
 ## ❓ Perguntas ou Hipóteses
 
@@ -34,8 +32,7 @@ Indique quais técnicas estatísticas serão utilizadas (análise exploratória,
 
 ## 🛠️ Ferramentas Utilizadas
 
-A preencher na próxima etapa.
-Quais linguagens, bibliotecas ou softwares serão utilizados no projeto.
+Usamos a linguagem Python, através do Google Colab (Colaboratory), devido a seu fácil manipulamento de dados, inclusove por incluir a Biblioteca Pandas e aceitar a retirada direta dos dados do Kaggle.
 
 ## 📈 Resultados
 
@@ -49,5 +46,4 @@ Síntese dos aprendizados e implicações das análises realizadas.
 
 ## ⚠️ Limitações e Trabalhos Futuros
 
-A preencher no final do projeto.
-Quais foram as limitações do estudo e o que poderia ser feito com mais tempo ou dados adicionais.
+Algumas limitações foram percebidas, como o preenchimento indevido dos dados no formulário retirado do kaggle, por alguns estudantes, como também a baixa quantidade de respostas, o que dificulta na precisão dos resultados.
