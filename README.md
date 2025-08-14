@@ -41,8 +41,7 @@ Resumo visual e interpretativo dos principais achados.
 
 ## 📌 Conclusões
 
-A preencher no final do projeto.
-Síntese dos aprendizados e implicações das análises realizadas.
+Podemos concluir ao analisar os dados, que  estatisticamente, emboras muitos alunos tenham conhecimento, usam pessoalmente e academicamente a Inteligência Artificial, poucos se interessam em seguir uma carreira ligada a IA, sendo estes interessados, alunos dentro de cursos que envolvem diretamente tecnologias.
 
 ## ⚠️ Limitações e Trabalhos Futuros
 
